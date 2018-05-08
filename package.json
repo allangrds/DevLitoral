@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-clean-css": "3.9.4",
+    "gulp-htmlmin": "4.0.0",
+    "gulp-image": "^4.3.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "gulp": "gulp minify"
+  }
+}
