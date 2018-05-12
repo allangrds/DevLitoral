@@ -2,6 +2,6 @@
 
 ## How to install
 ```
-npm install gulp-cli -g
+yarn global add gulp-cli
 yarn
 ```
